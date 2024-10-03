@@ -1,2 +1,2 @@
 # evelyn-davis.github.io
-Personal Homepage!
+This is the homepage of a musician. Stay tuned.
